@@ -12,3 +12,5 @@ Different classifier used to predict the results on basis of different features.
 
 Four different folders are attached, in which the m files of different classifer train and then used for predition as well.
 HOG with SVM,KNN,Decision Tree, And SURF, with bagOFfeatures.
+
+For more information see, the publication_final.pdf attacted !!
